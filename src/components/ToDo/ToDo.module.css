@@ -1,0 +1,9 @@
+.addBtnStyle{
+  background: #90b2ea;
+  color: white;
+  margin-left:20px;
+}
+.addBtnStyle:hover{
+  background: greenyellow;
+  color:black;
+}

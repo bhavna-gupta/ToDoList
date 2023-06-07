@@ -1,0 +1,35 @@
+.listContainer {
+  display: flex;
+  justify-content: center;
+  background-color:lightyellow;
+}
+
+.list {
+  display: flex;
+  padding: 5px;
+  margin: 10px;
+}
+
+.taskHilighting {
+  background-color: greenyellow;
+}
+
+.task {
+  margin-left: 10px;
+    margin-right: 200px;
+  list-style:none;
+}
+
+.isDoneBtn {
+  margin-right: 10px;
+}
+
+.btn{
+   margin-right: 10px; 
+}
+.checked{
+  text-decoration: line-through;
+  margin-left: 10px;
+    margin-right: 200px;
+  list-style:none;
+}
